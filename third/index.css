@@ -1,0 +1,55 @@
+.row1{
+    width: 100%;
+    height: 100px;
+    background-color: #D8D8D8;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.rowSquare{
+    height: 75px;
+    width: 75px;
+    background-color: #4A90E2;
+}
+
+.row2{
+    height: 200px;
+    width: 100%
+    background-color: white;
+    padding: 30px;
+}
+
+.rowText{
+    text-align: middle;
+    font-size: 20px;
+}
+
+.row3{
+    width: 100%;
+    height: 100px;
+    background-color: #4A90E2;
+}
+
+.row4{
+    width: 100%;
+    height: 100px;
+
+    background-color: lightseagreen;
+}
+
+.row5{
+    width: 100%;
+    height: 100px;
+    background-color: lightgreen;
+}
+
+.row6{
+    width: 100%;
+    height: 100px;
+    background: yellowgreen;
+}
+
+body{
+    margin:0;
+    padding:0;
+}
